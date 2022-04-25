@@ -39,6 +39,24 @@ This is one very useful/beautiful article on Sharding if people are interested:
 https://docs.mongodb.com/manual/sharding/#sharding-internals-shard-keys
 P.S: Slightly advanced :slightly_smiling_face:
 
+
+##Zookeeper:
+https://www.guru99.com/zookeeper-tutorial.html
+
+https://intellipaat.com/blog/what-is-apache-zookeeper/
+
+##Kafka:
+https://www.tutorialspoint.com/apache_kafka/apache_kafka_introduction.htm
+
+https://www.upsolver.com/blog/kafka-versus-rabbitmq-architecture-performance-use-case
+
+
+##Websockets:
+https://ably.com/topic/websockets
+
+https://www.baeldung.com/java-websockets
+
+
 ![fb_full](https://user-images.githubusercontent.com/10866405/165179766-a7727bc4-c719-4edc-ad2c-979258fd886c.png)
 
 
@@ -50,14 +68,3 @@ P.S: Slightly advanced :slightly_smiling_face:
 
 ![messenger](https://user-images.githubusercontent.com/10866405/165179956-17a51d1d-5c3f-4372-bbb1-f27b21fb1f0f.png)
 
-
-Zookeeper:
-https://www.guru99.com/zookeeper-tutorial.html
-https://intellipaat.com/blog/what-is-apache-zookeeper/
-Kafka:
-https://www.tutorialspoint.com/apache_kafka/apache_kafka_introduction.htm
-https://www.upsolver.com/blog/kafka-versus-rabbitmq-architecture-performance-use-case
-
-Websockets:
-https://ably.com/topic/websockets
-https://www.baeldung.com/java-websockets
