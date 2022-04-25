@@ -21,37 +21,40 @@ For those of you who want to know some popular and industry accepted best practi
 https://aws.amazon.com/caching/best-practices/
 
 
-CAP: https://howtodoinjava.com/hadoop/brewers-cap-theorem-in-simple-words/
-PACELC: https://blog.jetbrains.com/blog/2021/06/11/big-data-world-part-6-pacelc/
+## CAP: https://howtodoinjava.com/hadoop/brewers-cap-theorem-in-simple-words/
+
+## PACELC: https://blog.jetbrains.com/blog/2021/06/11/big-data-world-part-6-pacelc/
 
  https://database.guide/what-is-a-column-store-database/
  
  
- Bloomfilters: https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/
-Redis Bloom: https://docs.redis.com/latest/modules/redisbloom/
+## Bloomfilters: https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/
 
-NoSQL storage internals:
+## Redis Bloom: https://docs.redis.com/latest/modules/redisbloom/
+
+## NoSQL storage internals:
 https://medium.com/swlh/log-structured-merge-trees-9c8e2bea89e8
+
 https://docs.datastax.com/en/cassandra-oss/3.x/cassandra/dml/dmlManageOndisk.html
 
 
-This is one very useful/beautiful article on Sharding if people are interested:
+## This is one very useful/beautiful article on Sharding if people are interested:
 https://docs.mongodb.com/manual/sharding/#sharding-internals-shard-keys
 P.S: Slightly advanced :slightly_smiling_face:
 
 
-##Zookeeper:
+## Zookeeper:
 https://www.guru99.com/zookeeper-tutorial.html
 
 https://intellipaat.com/blog/what-is-apache-zookeeper/
 
-##Kafka:
+## Kafka:
 https://www.tutorialspoint.com/apache_kafka/apache_kafka_introduction.htm
 
 https://www.upsolver.com/blog/kafka-versus-rabbitmq-architecture-performance-use-case
 
 
-##Websockets:
+## Websockets:
 https://ably.com/topic/websockets
 
 https://www.baeldung.com/java-websockets
