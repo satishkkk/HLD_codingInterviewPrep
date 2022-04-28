@@ -6,6 +6,9 @@ https://howdns.works/ep1/
 
 ## Consistent Hashing -
 http://tom-e-white.com/2007/11/consistent-hashing.html
+https://www.codementor.io/@arpitbhayani/consistent-hashing-with-binary-search-16rec8e8eh
+https://medium.com/@sandeep4.verma/consistent-hashing-8eea3fb4a598
+https://ably.com/blog/implementing-efficient-consistent-hashing
 
 ##  Myntra system design
 https://medium.com/myntra-engineering/meterial-b442f539de33
